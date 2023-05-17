@@ -1,0 +1,232 @@
+.fontawesomeperson {
+    /* margin: 4% 9% -27px !important; */
+    margin: 2% -4% -27px !important;
+   
+    /* float: left; */
+    align-items: flex-start;
+    /* margin-left: -190px !important; */
+    width: 16px !important;
+}
+.profileimg{
+    margin-bottom: 0px !important;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+
+}
+.inputboxname {
+    margin-left: -10% !important;
+    margin-top: -6px !important;
+    display: flex !important;
+    width: 330% !important;
+    height: 43px !important;
+    padding-left: 40px !important;
+}
+
+.inputboxnameone {
+    margin-left: -10% !important;
+    margin-top: -6px !important;
+    display: flex !important;
+    width: 450% !important;
+    height: 43px !important;
+    /* padding-left: 74px !important; */
+}
+.inputboxnametwo{
+    margin-left: -10% !important;
+    margin-top: -6px !important;
+    display: flex !important;
+    width: 440% !important;
+    height: 43px !important;
+    /* padding-left: 40px !important; */
+}
+.inputgroupone {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+
+.profilecard {
+    background-color: #f0f0f0;
+    margin-left: 21%;
+    margin-top: 3%;
+}
+.profilecarddiv{
+    background-color: #f0f0f0;
+    /* margin-left: 21%; */
+    margin-top: 3%;
+}
+.divmain{
+    display: flex;
+    /* padding-left: 17%; */
+    margin-left: -14%;
+    justify-content: center;
+}
+
+.mb-33{
+        margin-bottom: 2rem !important;
+    }
+.profilediv {
+    /* display: flex;
+    margin-left: 15%; */
+    justify-content: flex-start;
+    align-items: flex-start;
+    background-color: #f0f0f0;
+    height: 100vh;
+}
+
+.profilelabel {
+    text-align: left;
+}
+
+.sumbitbtn {
+    margin-top: 2%;
+    background-color: #f76f45 !important;
+    width: 42%;
+    /* margin-left: 24% !important; */
+    display: inline-block;
+    font-weight: 600;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    user-select: none;
+    border: 1px solid transparent;
+    padding: 0.625rem 1.25rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: 0.375rem;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+}
+
+.sumbitbtntwo {
+    margin-top: 15%;
+    background-color: #f76f45 !important;
+    width: 135%;
+    /* margin-right: -28%; */
+    margin-left: 100% !important;
+    display: inline-block;
+    font-weight: 600;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    user-select: none;
+    border: 1px solid transparent;
+    padding: 0.625rem 1.25rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: 10px;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+}
+.sumbitbtnone {
+    margin-top: 2%;
+    margin-left: 73%;
+    background-color: #f76f45 !important;
+    width: 42%;
+    /* margin-left: 24% !important; */
+    display: inline-block;
+    font-weight: 600;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    user-select: none;
+    border: 1px solid transparent;
+    padding: 0.625rem 1.25rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: 0.375rem;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+}
+
+
+.divone {
+    height: 30px;
+}
+
+.onerow {
+    height: 45px;
+    margin-left: 19%;
+    margin-right: 3%;
+    border-radius: 2px;
+    background-color: #ffffff;
+}
+
+.editprofile {
+    padding-left: 5%;
+    padding-top: 1%;
+
+}
+
+.editprofilebel {
+    margin-left: 68%;
+}
+
+.avatar-cardone {
+    margin-left: 160%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 47px;
+    height: 46px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    border-radius: 50%;
+    /* box-shadow: 0 0 5px rgba(0, 0, 0, 0.2); */
+    box-shadow: 0 0 2px rgb(51 51 204);
+}
+
+.avaterdiv {
+    background-color: white;
+    width: 130px;
+    margin-left: 50%;
+    height: 127px;
+    border-radius: 81px;
+    border: 1px blue !important;
+    box-shadow: 0 0 2px rgb(51 51 204);
+}
+
+
+.avaterdivone {
+    margin-left: 60%;
+    background-color: white;
+    width: 150px;
+    height: 150px;
+    /* border-radius: 81px; */
+    border: 1px blue !important;
+}
+
+.about {
+    color: blue;
+}
+
+
+
+.profilecardtwo {
+    background-color: #1520d6;
+    width: 20px;
+    margin-left: 70%;
+    margin-top: -5%;
+    border-radius: 81px;
+    z-index: 20;
+    position: relative;
+}
+
+.inputbox {
+    margin-top: -10px;
+    margin-left: 20px;
+}
+
+.inputboxone {
+    margin-top: 10px;
+    margin-left: 15px;
+}
+
+.fileupload {
+    display: block !important;
+}
+
+
+.input-file input[type="file" i]::-webkit-file-upload-button {
+    display: none;
+}

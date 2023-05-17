@@ -1,0 +1,85 @@
+.navcontent{
+    height: inherit;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.connectapp{
+    margin-top: 1em;
+    margin-bottom: 20px;
+}
+.moduleheader{
+    display: flex;
+    flex-wrap: wrap;
+}
+.Layoutmodule {
+    width: 60%;
+}
+
+.selectstore{
+    margin: 0px auto;
+}
+.ollistone{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    margin: 0;
+}
+.lilistone{
+    list-style: none;
+    border-left: 1px solid #d9d9d9;
+    border-top: 1px solid #d9d9d9;
+    border-bottom: 1px solid #d9d9d9;
+    border-right: 1px solid #d9d9d9;
+}
+.alink{
+    background-color: #fff;
+    color: #333;
+    display: flex;
+    padding: 8px 15px;
+}
+.spanone{
+    background-color: #137cbd;
+    border: 1px solid #137cbd;
+    color: #fff;
+    border-radius: 16px;
+    display: inline-block;
+    font-size: 9px;
+    font-weight: 700;
+    line-height: 16px;
+    margin-right: 5px;
+    text-align: center;
+    width: 18px;
+}
+.spantwo{
+    line-height: 18px;
+    vertical-align: top;
+}
+.alinkone{
+    background-color: #f2f2f2;
+    cursor: default;
+    color: #333;
+    display: flex;
+    padding: 8px 15px;
+}
+.spanthree{
+    background-color: #fff;
+    border: 1px solid #d9d9d9;
+    border-radius: 16px;
+    display: inline-block;
+    font-size: 9px;
+    font-weight: 700;
+    line-height: 16px;
+    margin-right: 5px;
+    text-align: center;
+    width: 18px;
+}
+.spanfour{
+    line-height: 18px;
+    vertical-align: top;
+}
+.h1content{
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 32px;
+    width:60%;
+}

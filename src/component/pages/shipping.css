@@ -1,0 +1,323 @@
+.shippingcontent {
+    padding-bottom: 20px;
+    padding-top: 20px;
+    height: calc(100vh - 40px);
+}
+
+.shippingcontainer {
+    height: 100%;
+}
+
+.shippingflexcontent {
+    height: 100%;
+    left: 0 !important;
+    position: relative !important;
+    top: 0 !important;
+
+    display: flex;
+    flex-direction: column;
+    min-width: 600px;
+}
+
+.syncbutton {
+    width: 40px;
+    height: 40px;
+    border-radius: 0px;
+    border: 1px solid #ccc;
+    background-color: #ededed;
+}
+
+.plusicon {
+    padding-right: 10px;
+}
+
+#dropdown-basic-button {
+    border-radius: 0px;
+    background-color: #ededed !important;
+    width: 40px;
+    margin-top: 0px;
+    height: 40px;
+    color: black !important;
+    border: 1px solid #ccc !important;
+    box-shadow: none;
+    box-shadow: 0px;
+}
+
+#dropdown-basic-buttonone {
+    z-index: 100;
+    font-size: 13px;
+    background-color: #ededed !important;
+    margin-left: 40px;
+    margin-top: 0px;
+    height: 40px;
+    box-shadow: none;
+    border-radius: 0px;
+    box-shadow: 0px;
+    color: #929292 !important;
+    border: 1px solid #ccc !important;
+}
+
+
+
+#dropdown-basic-buttontwo {
+    box-shadow: none;
+    border-radius: 0px;
+    box-shadow: 0px;
+    margin-left: 65px;
+    z-index: 100;
+    font-size: 13px;
+    margin-top: 0px;
+    height: 40px;
+    color: #929292 !important;
+    background-color: #ededed !important;
+    border: 1px solid #ccc !important;
+}
+
+#dropdown-basic-buttonthree {
+
+    margin-left: 100%;
+    z-index: 100;
+    font-size: 13px;
+    margin-top: 0px;
+    border: none;
+    height: 40px;
+    border-radius: 1px;
+    color: #137CBD !important;
+    background: #fff !important;
+    box-shadow: none;
+}
+
+#dropdown-basic-buttonthreestore {
+
+    margin-left: 130%;
+    z-index: 100;
+    font-size: 13px;
+    margin-top: 0px;
+    border: none;
+    height: 40px;
+    border-radius: 1px;
+    color: #137CBD !important;
+    background: #fff !important;
+    box-shadow: none;
+}
+
+#dropdown-basic-buttonthreesku {
+    margin-left: 120%;
+    z-index: 100;
+    font-size: 13px;
+    margin-top: 0px;
+    border: none;
+    height: 40px;
+    border-radius: 1px;
+    color: #137CBD !important;
+    background: #fff !important;
+    box-shadow: none;
+}
+
+#dropdown-basic-buttonthreeqty {
+    margin-left: 80%;
+    z-index: 100;
+    font-size: 13px;
+    margin-top: 0px;
+    border: none;
+    height: 40px;
+    border-radius: 1px;
+    color: #137CBD !important;
+    background: #fff !important;
+    box-shadow: none;
+}
+
+#dropdown-basic-buttonthree:hover {
+    color: black !important;
+    outline: none !important;
+    border: none !important;
+}
+
+
+.shipmentbutton {
+    font-size: 12px;
+    font-weight: 600;
+    color: #929292;
+    background: #fff !important;
+    border: 1px solid #ccc !important;
+    margin-top: 0;
+    border-radius: 0px;
+    cursor: default !important;
+    margin-left: -40px;
+}
+
+.shipmentbuttonone {
+    font-size: 12px;
+    font-weight: 600;
+    color: black;
+    background: #fff !important;
+    border: 1px solid #ccc !important;
+    margin-top: 0;
+    border-radius: 0px;
+    margin-left: 0px;
+
+}
+
+.shipmentbuttontwo {
+    font-size: 12px;
+    font-weight: 600;
+    color: black;
+    background: #fff !important;
+    border: 1px solid #ccc !important;
+    margin-top: 0;
+    border-radius: 0px;
+    margin-left: 60px;
+
+}
+
+.labelsbuttonone {
+    z-index: 100;
+    font-size: 14px;
+    background: #fff !important;
+    border: 1px solid #ccc !important;
+    margin-top: 0;
+    border-radius: 0px;
+
+    margin-left: 137px;
+}
+
+.shipmentbutton:hover {
+    color: black !important;
+}
+
+.shipmentbuttonone:hover {
+    color: black !important;
+}
+
+.shipmentbuttontwo:hover {
+    color: black !important;
+}
+
+.btn-outline-secondary:focus {
+    box-shadow: none !important;
+
+}
+
+.shipmentbutton:focus {
+    box-shadow: none !important;
+    /* border: none !important; */
+}
+
+
+
+.searchonebox {
+    width: 108px;
+    height: 40px;
+    margin-left: 76px;
+    /* margin-top: 0px; */
+    background-color: #fff;
+    border: 1px solid #ccc;
+}
+
+.filterspan {
+    font-weight: 500;
+    font-size: 14px;
+    /* line-height: 20px; */
+}
+
+.divdropdown {
+    display: flex;
+    margin-top: 50px;
+    margin-left: -15px;
+}
+
+.filtersdropdown {
+    display: flex;
+    margin-left: -100px;
+    margin-top: -12px;
+}
+
+#dropdown-basic-buttonfour {
+    margin-left: 60%;
+    z-index: 100;
+    font-size: 13px;
+    margin-top: 0px;
+    border: none;
+    height: 40px;
+    border-radius: 1px;
+    color: #137CBD !important;
+    background: #fff !important;
+    box-shadow: none;
+}
+
+#dropdown-basic-buttonfive {
+    margin-left: 38%;
+    z-index: 100;
+    font-size: 13px;
+    margin-top: 0px;
+    border: none;
+    height: 40px;
+    border-radius: 1px;
+    color: #137CBD !important;
+    background: #fff !important;
+    box-shadow: none;
+
+}
+
+.se-select__input-wrapper {
+    color: #929292;
+    background: hsla(0, 0%, 72.5%, .1);
+    cursor: not-allowed;
+    align-items: baseline;
+    /* background: #fff; */
+    border: 1px solid #d3d3d3;
+    border-radius: 2px;
+    display: flex;
+    justify-content: space-between;
+    padding: 8px 8px 5px 11px;
+    margin-bottom: 10px;
+    min-height: 38px;
+    margin-top: 40px;
+    width: 200px;
+    cursor: pointer;
+    white-space: nowrap;
+}
+
+.orders-content {
+
+    margin-left: 76px !important;
+    border-right: 1px solid #ddd;
+    flex-grow: 1;
+    height: unset;
+    height: 75vh;
+    border-top: 1px solid #ddd;
+    border-left: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    overflow: auto;
+    scrollbar-width: thin;
+    scrollbar-color: #929292 #ededed;
+}
+
+.orders-pane table.orders>thead th {
+    border-right: 1px solid #ccc;
+    background-color: #EDEDED;
+    color: #222222;
+    font-weight: 500;
+    padding: 0px 6px 0px 12px;
+}
+
+.tableheadtable {
+    background: #ddd;
+    color: #fff;
+    /* font-size: 12px; */
+    font-size: 13px;
+    padding: 8px;
+    line-height: 44px;
+
+}
+
+.tablebodyone {
+    padding: 8px;
+    line-height: 50px;
+    /* text-align: left; */
+    height: 50px;
+    border-bottom: 2px solid #ddd;
+    /* vertical-align: top; */
+    border-top: 1px solid #ddd;
+}
